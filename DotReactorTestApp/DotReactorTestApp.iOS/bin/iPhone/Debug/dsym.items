@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <_AppExtensionDebugSymbolProperties Include="DotReactorTestApp.iOS.app">
+      <NativeExecutable>DotReactorTestApp.iOS</NativeExecutable>
+      <NoDSymUtil>false</NoDSymUtil>
+      <NoSymbolStrip>false</NoSymbolStrip>
+      <SymbolsList>\Users\denizbottcher\Library\Caches\Xamarin\mtbs\builds\DotReactorTestApp.iOS\f68f3b24a72139d44ea85f854dadda952b047d75745a25a62d5faf09d4ea41a4\obj\iPhone\Debug\mtouch-symbols.list</SymbolsList>
+    </_AppExtensionDebugSymbolProperties>
+  </ItemGroup>
+</Project>

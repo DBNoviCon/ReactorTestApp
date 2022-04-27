@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "q+OssOK/hlMES+2wYosfzAih6GH3Y23ZrqSUR+BsaDV01xzYAKUdMrxDRqFqgDrCgEMAaKWyXzI3K2eEFMJAAg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DenizBöttcher\\source\\repos\\DotReactorTestApp\\DotReactorTestApp\\DotReactorTestApp\\DotReactorTestApp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DenizBöttcher\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\DenizBöttcher\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\DenizBöttcher\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\DenizBöttcher\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\DenizBöttcher\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}

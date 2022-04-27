@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "PM46xt1Y1yOZc61obaexSchlsMv5MMIfm2rEUvuzHbj6mQ3iRWBCGp1vibVsyv1Q99wadYpdukKlm1zwsw6bug==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\DenizBöttcher\\source\\repos\\DotReactorTestApp\\DotReactorTestApp\\DotReactorTestApp.iOS\\DotReactorTestApp.iOS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\DenizBöttcher\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
+    "C:\\Users\\DenizBöttcher\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
+    "C:\\Users\\DenizBöttcher\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
+  ],
+  "logs": []
+}
